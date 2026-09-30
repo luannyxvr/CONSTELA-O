@@ -1,0 +1,2 @@
+Renomeie seu arquivo de áudio para "heaven.mp3" e coloque-o na mesma pasta do index.html.
+Use apenas uma cópia/arquivo que você tenha direito de usar. O site não inclui a música.
